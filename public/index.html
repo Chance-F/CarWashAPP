@@ -26,6 +26,31 @@
 
   <body>
     <div id="root"></div>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyD0ykDAGkg3edfZVrYlHO3OazVz223KaxU",
+    authDomain: "ionicapplication-1345b.firebaseapp.com",
+    databaseURL: "https://ionicapplication-1345b.firebaseio.com",
+    projectId: "ionicapplication-1345b",
+    storageBucket: "ionicapplication-1345b.appspot.com",
+    messagingSenderId: "399972122329",
+    appId: "1:399972122329:web:560b06d32afce9dceb88c8",
+    measurementId: "G-HPW5GJSTSM"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+
   </body>
 
 </html>

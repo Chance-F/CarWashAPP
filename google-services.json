@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399972122329",
+    "firebase_url": "https://ionicapplication-1345b.firebaseio.com",
+    "project_id": "ionicapplication-1345b",
+    "storage_bucket": "ionicapplication-1345b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399972122329:android:aed1c8124630e79aeb88c8",
+        "android_client_info": {
+          "package_name": "com.finalchance.IonicApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399972122329-vuba79n58jhgd9iu90rnetnd37mp4ulu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1fDnz7YMp1tTW1TX1gMwEJieg6e2iGJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399972122329-vuba79n58jhgd9iu90rnetnd37mp4ulu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
