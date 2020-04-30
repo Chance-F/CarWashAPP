@@ -6,12 +6,6 @@
 	align-items: center;
 }
 
-ion-fab-button {
-	--border-radius: 11px;
-	--border-width: 50px;
-
-}
-
 div {
 	text-align: center;
 }
