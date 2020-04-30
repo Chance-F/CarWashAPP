@@ -8,7 +8,7 @@ export function useWeather (){
 
   const getWeather = (city: string) => {
 
-    const api = '8025f75525581c7ca6d93aae5e2117f4';
+    const api = '';
     const call = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + api + "&units=imperial";
     return axios({
       url: call,
